@@ -14,7 +14,7 @@ A lightweight, interactive web component that visualizes CO2 emissions trends fo
 - Easy-to-configure Webpack setup with Hot Module Replacement (HMR) for development.
 
 ## Demo
-(You can add a live demo link here if you host it, e.g., on GitHub Pages or another service.)
+No GitHub Pages yet
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
