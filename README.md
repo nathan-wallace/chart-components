@@ -1,7 +1,3 @@
-Below is a README file tailored for your GitHub repository based on the provided code. It includes an overview, setup instructions, usage details, and other relevant information to help users understand and work with your project.
-
----
-
 # CO2 Chart Component
 
 A lightweight, interactive web component that visualizes CO2 emissions trends for selected countries (United States, China, India, Germany) from 1990 to 2023. Built with Chart.js, Tailwind CSS, and Webpack, this project fetches data from the [Our World in Data CO2 dataset](https://github.com/owid/co2-data) and displays it in a responsive line chart.
@@ -93,7 +89,3 @@ This project is licensed under the ISC License. See the `package.json` for detai
 ## Acknowledgments
 - [Our World in Data](https://ourworldindata.org/) for providing comprehensive CO2 emissions data.
 - The open-source communities behind Chart.js, Tailwind CSS, and Webpack.
-
----
-
-Feel free to tweak this README to fit your personal style or add more sections like a "Screenshots" area if you have visuals to share. Replace `your-username` in the clone URL with your actual GitHub username!
