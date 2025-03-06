@@ -19,7 +19,7 @@ No GitHub Pages yet
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/co2-chart-component.git
+   git clone https://github.com/nathan-wallace/co2-chart-component.git
    cd co2-chart-component
    ```
 2. Install dependencies:
